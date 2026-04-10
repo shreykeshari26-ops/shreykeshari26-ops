@@ -75,15 +75,17 @@
 
 ---
 
-### 🚀 Highlighted Projects
+### 🚀 Projects
 
 <div align="center">
 
-| Project | Description | Tech Used |
-| :---: | :---: | :---: |
-| **PlaceMind AI** | AI-driven Resume Screening and filtering. | Python, Local LLMs |
-| **FitSnap AI** | AI-powered fitness and posture analysis app. | REST APIs, Supabase |
-| **Fashion Sensor** | Next-gen fashion recommendation engine. | Java, Machine Learning |
+| Project | Description |
+| :---: | :---: |
+| **PlaceMind AI** | AI-driven placement management platform. |
+| **FitSnap AI** | Fitness tracking and health analysis. |
+| **Fashion Sensor** | AI-powered style and clothing detection. |
+| **Travel Advisor** | Team project for travel planning. |
+| **SOS Safety Project** | Security application for emergencies. |
 
 </div>
 
@@ -93,20 +95,20 @@
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=shreyanshkeshari&show_icons=true&title_color=2196F3&icon_color=2196F3&text_color=c9d1d9&bg_color=0d1117&hide_border=true&theme=onedark" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyanshkeshari&layout=compact&title_color=2196F3&text_color=c9d1d9&bg_color=0d1117&hide_border=true&theme=onedark" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shreykeshari26-ops&show_icons=true&title_color=2196F3&icon_color=2196F3&text_color=c9d1d9&bg_color=0d1117&hide_border=true&theme=onedark" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreykeshari26-ops&layout=compact&title_color=2196F3&text_color=c9d1d9&bg_color=0d1117&hide_border=true&theme=onedark" width="48%" alt="Top Languages" />
   
   <br/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyanshkeshari&theme=onedark&hide_border=true&background=0d1117&ring=2196F3&currStreakNum=2196F3" width="97%" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreykeshari26-ops&theme=onedark&hide_border=true&background=0d1117&ring=2196F3&currStreakNum=2196F3" width="97%" alt="GitHub Streak" />
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shreyanshkeshari&style=flat-square&color=2196F3" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=shreykeshari26-ops&style=flat-square&color=2196F3" alt="Profile Views" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/shreyanshkeshari">
+  <a href="https://github.com/shreykeshari26-ops">
     <img src="https://img.shields.io/badge/Made_with-%E2%9D%A4%EF%B8%8F-red?style=flat-square" alt="Made With Love" />
   </a>
 </p>
