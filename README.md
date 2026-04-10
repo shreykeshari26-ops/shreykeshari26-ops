@@ -10,9 +10,18 @@
   <em>B.Tech IT Student at G.L. Bajaj | Passionate about Software Engineering & Cybersecurity</em>
 </p>
 
+### 🤝 Connect with Me
+
 <p align="center">
-  <a href="mailto:your_email@example.com"><img src="https://img.shields.io/badge/Email-EA4335.svg?logo=Gmail&logoColor=white&style=for-the-badge" alt="Email" /></a>
-  <a href="https://linkedin.com/in/shreyanshkeshari"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="mailto:shrey.keshari26@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335.svg?logo=Gmail&logoColor=white&style=for-the-badge" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/shreyansh-keshari-104639362/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" /></a>
+</p>
+
+### 💻 Coding Profiles
+
+<p align="center">
+  <a href="https://leetcode.com/u/shreyansh_2k7/"><img src="https://img.shields.io/badge/LeetCode-FFA116.svg?logo=leetcode&logoColor=white&style=for-the-badge" alt="LeetCode" /></a>
+  <a href="https://codolio.com/profile/Shreyansh26"><img src="https://img.shields.io/badge/Codolio-1572B6.svg?style=for-the-badge&logoColor=white" alt="Codolio" /></a>
 </p>
 
 ---
@@ -48,8 +57,20 @@
 ### 📜 Certifications
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS-Academy_Graduate_%7C_Cloud_Foundations-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Academy" />
-  <img src="https://img.shields.io/badge/Palo_Alto_Networks-Certified_%7C_Cybersecurity-FA582D?style=for-the-badge&logo=paloaltonetworks&logoColor=white" alt="Palo Alto" />
+  <a href="https://drive.google.com/file/d/1Wui4TAQ5IJb2ggX4jnsGKQ2mVRjL9i80/view?usp=drive_link">
+    <img src="https://img.shields.io/badge/AWS-Academy_Graduate_%7C_Cloud_Foundations-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Academy" />
+  </a>
+  <a href="https://drive.google.com/file/d/1kIW25XqSjfoF7WWmLbWTUz6pyivZL3B_/view?usp=drive_link">
+    <img src="https://img.shields.io/badge/Palo_Alto_Networks-Network_Security-FA582D?style=for-the-badge&logo=paloaltonetworks&logoColor=white" alt="Palo Alto Network Security" />
+  </a>
+  <a href="https://drive.google.com/file/d/1f0d0KkNoxdk-jk7Q9PepUJr5mRtSR1fo/view?usp=drive_link">
+    <img src="https://img.shields.io/badge/Palo_Alto_Networks-Cyber_Security-FA582D?style=for-the-badge&logo=paloaltonetworks&logoColor=white" alt="Palo Alto Cyber Security" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://drive.google.com/file/d/1K1OytvuMUGxemF-UxEssj8X3LT3Njt77/view?usp=drive_link">
+    <img src="https://img.shields.io/badge/Google-Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Gemini" />
+  </a>
 </p>
 
 ---
