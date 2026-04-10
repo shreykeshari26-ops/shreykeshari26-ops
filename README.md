@@ -1,0 +1,91 @@
+<h1 align="center">Hi there, I'm Shreyansh Keshari 👋</h1>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2196F3&center=true&vCenter=true&random=false&width=750&lines=System+%2F%2F+Initializing...;Java+(OOP+%26+DSA)+Expert;Building+REST+APIs;Exploring+Local+LLMs+(Gemma+2);Cloud+Security+Enthusiast" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <em>B.Tech IT Student at G.L. Bajaj | Passionate about Software Engineering & Cybersecurity</em>
+</p>
+
+<p align="center">
+  <a href="mailto:your_email@example.com"><img src="https://img.shields.io/badge/Email-EA4335.svg?logo=Gmail&logoColor=white&style=for-the-badge" alt="Email" /></a>
+  <a href="https://linkedin.com/in/shreyanshkeshari"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" /></a>
+</p>
+
+---
+
+### 👨‍💻 About Me
+
+<div align="left">
+
+- 🎓 **Education**: Currently pursuing my B.Tech in IT at **G.L. Bajaj Institute of Technology & Management**.
+- 🚀 **Achievements**: Solved **120+ LeetCode problems** | **Campus Ambassador** for EDC IIT Delhi.
+- 💡 **Interests**: Object-Oriented Programming, Data Structures & Algorithms, and modern Cloud Architecture.
+- 📫 **How to reach me**: Drop me a message on LinkedIn or email me!
+
+</div>
+
+### 🛠️ Tech Stack & Skills
+
+<p align="center">
+  <strong>Core Skills</strong> <br/>
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
+
+<p align="center">
+  <strong>Advanced Skills</strong> <br/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API" />
+  <img src="https://img.shields.io/badge/Local_LLM-4A154B?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama / Gemma 2" />
+</p>
+
+### 📜 Certifications
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-Academy_Graduate_%7C_Cloud_Foundations-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Academy" />
+  <img src="https://img.shields.io/badge/Palo_Alto_Networks-Certified_%7C_Cybersecurity-FA582D?style=for-the-badge&logo=paloaltonetworks&logoColor=white" alt="Palo Alto" />
+</p>
+
+---
+
+### 🚀 Highlighted Projects
+
+<div align="center">
+
+| Project | Description | Tech Used |
+| :---: | :---: | :---: |
+| **PlaceMind AI** | AI-driven Resume Screening and filtering. | Python, Local LLMs |
+| **FitSnap AI** | AI-powered fitness and posture analysis app. | REST APIs, Supabase |
+| **Fashion Sensor** | Next-gen fashion recommendation engine. | Java, Machine Learning |
+
+</div>
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=shreyanshkeshari&show_icons=true&title_color=2196F3&icon_color=2196F3&text_color=c9d1d9&bg_color=0d1117&hide_border=true&theme=onedark" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyanshkeshari&layout=compact&title_color=2196F3&text_color=c9d1d9&bg_color=0d1117&hide_border=true&theme=onedark" width="48%" alt="Top Languages" />
+  
+  <br/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyanshkeshari&theme=onedark&hide_border=true&background=0d1117&ring=2196F3&currStreakNum=2196F3" width="97%" alt="GitHub Streak" />
+</div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shreyanshkeshari&style=flat-square&color=2196F3" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/shreyanshkeshari">
+    <img src="https://img.shields.io/badge/Made_with-%E2%9D%A4%EF%B8%8F-red?style=flat-square" alt="Made With Love" />
+  </a>
+</p>
