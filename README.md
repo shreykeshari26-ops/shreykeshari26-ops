@@ -26,17 +26,6 @@
 
 ---
 
-### 👨‍💻 About Me
-
-<div align="left">
-
-- 🎓 **Education**: Currently pursuing my B.Tech in IT at **G.L. Bajaj Institute of Technology & Management**.
-- 🚀 **Achievements**: Solved **120+ LeetCode problems** | **Campus Ambassador** for EDC IIT Delhi.
-- 💡 **Interests**: Object-Oriented Programming, Data Structures & Algorithms, and modern Cloud Architecture.
-- 📫 **How to reach me**: Drop me a message on LinkedIn or email me!
-
-</div>
-
 ### 🛠️ Tech Stack & Skills
 
 <p align="center">
