@@ -20,8 +20,8 @@
 ### 💻 Coding Profiles
 
 <p align="center">
-  <a href="https://leetcode.com/u/shreyansh_2k7/"><img src="https://img.shields.io/badge/LeetCode-FFA116.svg?logo=leetcode&logoColor=white&style=for-the-badge" alt="LeetCode" /></a>
-  <a href="https://codolio.com/profile/Shreyansh26"><img src="https://img.shields.io/badge/Codolio-1572B6.svg?style=for-the-badge&logoColor=white" alt="Codolio" /></a>
+  <img src="https://img.shields.io/badge/LeetCode-FFA116.svg?logo=leetcode&logoColor=white&style=for-the-badge" alt="LeetCode" /></a>
+  <img src="https://img.shields.io/badge/Codolio-1572B6.svg?style=for-the-badge&logoColor=white" alt="Codolio" /></a>
 </p>
 
 ---
