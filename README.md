@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <em>B.Tech IT Student at G.L. Bajaj | Passionate about Software Engineering & Cybersecurity</em>
+  <em>B.Tech IT Student at G.L. Bajaj | Passionate about Software Engineering & AI Engineering </em>
 </p>
 
 ### 🤝 Connect with Me
@@ -74,7 +74,6 @@
 | **FitSnap AI** | Fitness tracking and health analysis. |
 | **Fashion Sensor** | AI-powered style and clothing detection. |
 | **Travel Advisor** | Team project for travel planning. |
-| **SOS Safety Project** | Security application for emergencies. |
 
 </div>
 
